@@ -32,14 +32,25 @@
     "siteFonts": [],
     "uniqCompNum": 25,
     "versionPublish": "4.9.7",
-    "snow": ""
+    "snow": "",
+    "witsec-white-label": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "siteUrl": "undefined",
+    "global-footer": "",
+    "seo-meta": "Шестой ежегодный конкурс красоты и талантов - \"КРАСА КИРОВГРАДА - 2019\"!",
+    "witsec-language": "ru",
+    "globalfooter": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "Главная | Краса Кировграда 2019",
+        "meta_descr": "Шестой ежегодный конкурс красоты и талантов - \"КРАСА КИРОВГРАДА - 2019\"!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
