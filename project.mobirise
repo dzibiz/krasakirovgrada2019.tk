@@ -547,7 +547,7 @@
             "autoplay": true,
             "timeout": 5,
             "paddingTop": 2,
-            "paddingBottom": 1,
+            "paddingBottom": "0",
             "showArrows": true,
             "showBullets": false,
             "bgImageRadio": false,
@@ -565,7 +565,7 @@
             "visibleSlides": "4",
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/cirulnik-1-493x256.jpg",
@@ -613,7 +613,7 @@
                 }
               },
               {
-                "active": true,
+                "active": false,
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/krasota-128x128.jpg",
@@ -679,7 +679,7 @@
         },
         {
           "_params": {
-            "paddingTop": 3,
+            "paddingTop": "0",
             "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
