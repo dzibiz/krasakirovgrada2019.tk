@@ -43,7 +43,8 @@
     "global-footer": "",
     "seo-meta": "",
     "witsec-language": "ru",
-    "globalfooter": ""
+    "globalfooter": "",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
