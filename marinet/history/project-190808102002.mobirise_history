@@ -30,15 +30,13 @@
     "versionFirst": "4.10.3",
     "siteFonts": [],
     "uniqCompNum": 16,
-    "versionPublish": "4.10.7",
+    "versionPublish": "4.10.5",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
     "gdpr": "",
-    "siteUrl": "undefined",
-    "publishType": "local",
-    "publishPath": "file:///C:/1"
+    "siteUrl": "undefined"
   },
   "pages": {
     "index.html": {
@@ -129,7 +127,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">marrie_net</a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">marri_net</a>",
           "_tags": [
             "Тема"
           ],
@@ -211,7 +209,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/zodewwuuehe-1400x1863.jpg",
+              "src": "@PROJECT_PATH@/assets/images/jydzaj8ccaq-610x640.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -353,7 +351,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Стоимость: 55$",
+          "title": "Стоимость: 1 700 руб.",
           "text": "<p>Время консультации: 60 минут</p>",
           "_tags": [
             "Тема"
@@ -433,7 +431,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Стоимость: 45$",
+          "title": "Стоимость: 1 500 руб.",
           "text": "<p>Время сессии: 60 минут</p>",
           "_tags": [
             "Тема"
@@ -527,7 +525,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "Стоимость: 450$",
+          "title": "Стоимость: 14 000 руб.",
           "text": "<p>Продолжительность программы: 60 дней</p>",
           "_tags": [
             "Тема"
